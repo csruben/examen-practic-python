@@ -1,4 +1,4 @@
-# Examen practic - restanțe și măriri
+# Examen practic 
 
 În cadrul sesiunii de restanțe și măriri, fiecare student va primi cerințele pentru examenul practic. Acesta valorează `40%` din media finală. Este necesar să obțineți minim nota `5` pentru a promova examenul. Dacă participați la mărire, nota inițială nu poate să scadă.
 
